@@ -26,3 +26,4 @@ Model is a teaching demo; real clinical use requires further validation & bias c
 dataset_preview.png  
 model_accuracy.png  
 confusion_matrix.png
+![Alt confusion_matrix image](review/confusion_matrix.png "confusion matrix")
